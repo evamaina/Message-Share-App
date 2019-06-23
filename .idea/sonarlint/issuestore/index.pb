@@ -1,0 +1,19 @@
+
+o
+?app/src/main/java/com/example/messagesharingapp/models/Model.kt,e/b/eb052679e9db6e007354d72ff2cd679c9b089719
+v
+Fapp/src/main/java/com/example/messagesharingapp/Constants/Constants.kt,2/9/29c08f7556407ffcfdc50e98dc3032eff0f7c5b4
+m
+=app/src/main/java/com/example/messagesharingapp/Extensions.kt,5/8/58eb1a404fd7b2fdabe8cbf9c0c6fce7a7bc9ea6
+q
+Aapp/src/main/java/com/example/messagesharingapp/SecondActivity.kt,a/c/ac926741dcd9e9fbcd3a9ce2c8ba2345a091e020
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+z
+Japp/src/main/java/com/example/messagesharingapp/adapters/HobbiesAdapter.kt,c/1/c1dcaea87d37c5ce16de87ec77a0d623b68d3ab9
+r
+Bapp/src/main/java/com/example/messagesharingapp/HobbiesActivity.kt,a/f/af603186cd457f2396c31b47c4ad1e78fdbd1113
+o
+?app/src/main/java/com/example/messagesharingapp/MainActivity.kt,e/a/ea26f4c2b3067c07c430985419119794a44eea1e
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
